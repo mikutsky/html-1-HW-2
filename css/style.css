@@ -124,6 +124,10 @@ img {
   z-index: 999;
 }
 
+#main {
+  padding-top: 112px;
+}
+
 #footer {
   min-height: 250px;
   color: #fff;
